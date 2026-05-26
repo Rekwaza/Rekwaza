@@ -13,7 +13,7 @@
 ### 🧠 Skills
 
 <p>
-  <img src="[https://skillicons.dev/icons?i=java,mongodb,redis,mysq](https://skillicons.dev/icons?i=java,lua,python)l" />
+  <img src="https://skillicons.dev/icons?i=java,lua,python" />
 </p>
 
 ---

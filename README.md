@@ -1,25 +1,19 @@
-<h1 align="center">👋 Hey, i'm Adrien !</h1>
+<h1 align="center">👋 Hey, i'm Rekwaza !</h1>
 
 ---
 
 ### 🍃 About me
 
-- 🎂 18yo Java developer
-- 💻 Coding Minecraft plugins
-- 📚 Studying at University of Lille
+- 🎂 18yo
+- 💻 Coding Python, Java, Lua
+- 📚 Not Studying
 
 ---
 
 ### 🧠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mongodb,redis,mysql" />
+  <img src="[https://skillicons.dev/icons?i=java,mongodb,redis,mysq](https://skillicons.dev/icons?i=java,lua,python)l" />
 </p>
 
 ---
-
-### ⏱ I want to learn
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,kubernetes,unreal" />
-</p>

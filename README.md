@@ -18,7 +18,3 @@ Python • Java • Lua • Git • GitHub
 - 🤖 Bots
 - 🌐 Sites web
 - ⚙️ Outils automatisés
-
-## 📈 Statistiques
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)

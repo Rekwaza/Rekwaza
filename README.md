@@ -1,19 +1,24 @@
-<h1 align="center">👋 Hey, i'm Rekwaza !</h1>
+# 👋 Salut, moi c'est Rekwaza
 
----
+Développeur passionné par Python, Java et Lua.
 
-### 🍃 About me
+## 🚀 À propos de moi
 
-- 🎂 18yo
-- 💻 Coding Python, Java, Lua
-- 📚 Not Studying
+- 🎂 18 ans
+- 💻 Python, Java, Lua
+- 🎮 Passionné par le développement
+- 📚 J'apprends constamment de nouvelles technologies
 
----
+## 🛠️ Compétences
 
-### 🧠 Skills
+Python • Java • Lua • Git • GitHub
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,lua,python" />
-</p>
+## 📂 Projets
 
----
+- 🤖 Bots
+- 🌐 Sites web
+- ⚙️ Outils automatisés
+
+## 📈 Statistiques
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
